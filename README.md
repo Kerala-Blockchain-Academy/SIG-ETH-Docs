@@ -14,17 +14,17 @@
 	* [Networking](#networking)
 	
 * [Languages and technologies](#languages-and-technologies)
-	* [Ethereum] (#ethereum)
-	* [Solidity] (#solidity)
-	* [HTML] (#html)
-	* [CSS] (#css)
-	* [JavaScript] (#javascript)
-	* [Express.js] (#express.js)
-	* [AngularJS] (#angularjs)
-	* [Node.js] (#node.js)
-	* [React] (#react)
-	* [MongoDB] (#mongodb)
-	* [SQL] (#sql)
+	* [Ethereum](#ethereum)
+	* [Solidity](#solidity)
+	* [HTML](#html)
+	* [CSS](#css)
+	* [JavaScript](#javascript)
+	* [Express.js](#expressjs)
+	* [AngularJS](#angularjs)
+	* [Node.js](#nodejs)
+	* [React](#react)
+	* [MongoDB](#mongodb)
+	* [SQL](#sql)
 	
 ## Guides
 ### Books
