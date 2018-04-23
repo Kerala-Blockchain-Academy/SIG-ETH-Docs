@@ -31,12 +31,8 @@
 	* [Networking](#networking)
 	* [Operating Systems](#operating-systems)
 	* [System Design](#system-design)
-* [Similar repos](#similar-repos)
 
-
-*Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine](https://archive.org/web/).*
-
-## Algorithms
+## Blockchain
 
 ### Books
 
