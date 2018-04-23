@@ -1,5 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
-
+# Blockchain
 ### Contents
 
 * [Guides](#guides-1)
