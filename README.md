@@ -2,7 +2,7 @@
 
 ### Contents
 
-* [Blockchain](#Blockchain)
+* [Blockchain](#blockchain)
 	* [Books](#books-1)
 	* [Coding Practice](#coding-practice)
 	* [Guides](#guides)
@@ -226,12 +226,6 @@
 * [Praetorian Tech Challenges](https://www.praetorian.com/challenges)
 * [Cryptography Services Challenges](http://cryptoservices.github.io/challenges/)
 
-### Funny
-
-* Aphyr – [Reversing the technical interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
-* Aphyr – [Hexing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
-* Aphyr – [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)
-
 ### Maths
 
 * MIT - [Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
@@ -245,36 +239,3 @@
 * Kurose, Ross – [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204)
 * W. Richard Stevens – [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469)
 * W. Richard Stevens – [UNIX Netowrk Programming](https://www.amazon.com/UNIX-Network-Programming-Richard-Stevens/dp/0139498761)
-
-### Operating systems
-
-* UCB CS162 Operating Systems [[class](https://cs162.eecs.berkeley.edu/)] [[videos](https://www.youtube.com/playlist?list=PL89180A0A94A9BCBF)]
-* [The Eudyptula Challenge](http://eudyptula-challenge.org/)
-* [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
-
-### System design
-
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-* [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-* Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
-* [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-* [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
-* Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
-* [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
-
-## Similar repos
-
-* [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
-* [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-* [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
-* [mission-peace/interview](https://github.com/mission-peace/interview)
-* [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-* [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles)
-* [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources)
-* [blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
-* [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
-* [ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview)
-* [what-happens-when](https://github.com/alex/what-happens-when)
-* [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-* [liwei606/interview](https://github.com/liwei606/interview)
-* [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
