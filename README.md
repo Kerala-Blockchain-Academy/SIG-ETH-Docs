@@ -3,24 +3,30 @@
 ### Contents
 
 * [Guides](#guides-1)
-	* [Articles](#articles)
 	* [Books](#books)
+	* [Articles](#articles)
 	* [Courses](#courses)
 	* [Videos](#videos)
-* [Languages and technologies](#languages-and-technologies)
-	* [JavaScript](#javascript)
-	* [Node](#node)
-	* [React](#react)
+	
 * [Fundamentals](#fundamentals)
 	* [Crypto](#crypto)
 	* [Maths](#maths)
 	* [Networking](#networking)
-
-
-
+	
+* [Languages and technologies](#languages-and-technologies)
+	* [Ethereum] (#ethereum)
+	* [Solidity] (#solidity)
+	* [HTML] (#html)
+	* [CSS] (#css)
+	* [JavaScript] (#javascript)
+	* [Express.js] (#express.js)
+	* [AngularJS] (#angularjs)
+	* [Node.js] (#node.js)
+	* [React] (#react)
+	* [MongoDB] (#mongodb)
+	* [SQL] (#sql)
+	
 ## Guides
-
-
 ### Books
 
 * Asharaf S & Adarsh S – [Decentralized Computing Using Block Chain Technologies and Smart Contracts: Emerging Research and Opportunities](https://www.amazon.in/Decentralized-Computing-Using-Technologies-Contracts/dp/1522521933/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1524486104&sr=8-1&keywords=Blockchain+asharaf)
@@ -37,15 +43,6 @@
 * [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 * [Double-spending](https://en.wikipedia.org/wiki/Double-spending)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
 
 ### Courses
 
@@ -54,6 +51,7 @@
 * [Blockgeeks](https://courses.blockgeeks.com/)
 * [B9lab Academy](https://academy.b9lab.com/)
 * IBM [developerWorks Course Badges](https://academy.b9lab.com/)
+* NPTEL [Blockchain Architecture Design and Use Cases](https://onlinecourses.nptel.ac.in/noc18_cs47/preview)
 
 ### Videos
 
@@ -61,29 +59,7 @@
 * [Smart contracts [4:17]](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 * [Proof-of-Stake (vs proof-of-work) [7:58]](https://www.youtube.com/watch?v=M3EFi_POhps)
 * [Blockchain Basics Explained - Hashes with Mining and Merkle trees [3:23]](https://www.youtube.com/watch?v=lik9aaFIsl4)
-
-## Languages and technologies
-
-### JavaScript
-
-* [Free books by Dr. Axel Rauschmayer](http://exploringjs.com/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Superhero.js](http://superherojs.com/)
-* [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-### Node
-
-* [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
-
-### HTML
-
-* [PHP The Right Way](http://www.phptherightway.com)
-
-### React
-
-* [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
-* [12 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
-* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
+* [Learn Blockchain in 2 Months (curriculum included)](https://www.youtube.com/watch?v=wVVGv2bmxow)
 
 ## Fundamentals
 
@@ -108,3 +84,32 @@
 * Kurose, Ross – [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204)
 * W. Richard Stevens – [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469)
 * W. Richard Stevens – [UNIX Netowrk Programming](https://www.amazon.com/UNIX-Network-Programming-Richard-Stevens/dp/0139498761)
+
+## Languages and Technologies
+
+### Ethereum
+* [Ethereum Docs](http://www.ethdocs.org/en/latest/)
+
+### Solidity
+* [Solidity](https://en.wikipedia.org/wiki/Solidity)
+* [Solidity Docs](https://solidity.readthedocs.io/en/v0.4.23/)
+* [Remix - Solidity IDE](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
+
+
+### JavaScript
+
+### HTML
+
+### CSS
+
+### Express.js
+
+### AngularJS
+
+### Node.js
+
+### React
+
+### MongoDB
+
+### SQL
