@@ -8,12 +8,10 @@
 	* [Courses](#courses)
 	* [Videos](#videos)
 * [Languages and technologies](#languages-and-technologies)
-	* [Android](#android)
 	* [JavaScript](#javascript)
 	* [Node](#node)
-	* [Python](#python)
 	* [React](#react)
-* [Other topics](#other-topics)
+* [Fundamentals](#fundamentals)
 	* [Crypto](#crypto)
 	* [Maths](#maths)
 	* [Networking](#networking)
@@ -29,8 +27,24 @@
 
 ### Articles
 
-* Wikipedia – [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-* Wiki – [Bitcoin](https://en.bitcoin.it/wiki/Main_Page)
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Bitcoin](https://en.bitcoin.it/wiki/Main_Page)
+* [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+* [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+* [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
+* [Decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing)
+* [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
+* [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
+* [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+* [Double-spending](https://en.wikipedia.org/wiki/Double-spending)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ### Courses
@@ -50,11 +64,6 @@
 
 ## Languages and technologies
 
-### Android
-* [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions)
-* [derekargueta/Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions)
-
-
 ### JavaScript
 
 * [Free books by Dr. Axel Rauschmayer](http://exploringjs.com/)
@@ -70,19 +79,13 @@
 
 * [PHP The Right Way](http://www.phptherightway.com)
 
-### Python
-
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-* [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
-* [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
-
 ### React
 
 * [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
 * [12 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
-## Other topics
+## Fundamentals
 
 ### Crypto
 
