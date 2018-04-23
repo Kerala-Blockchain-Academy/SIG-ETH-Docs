@@ -49,15 +49,15 @@
 
 ### Courses
 
-* MIT – [Hacking a Google Interview](https://courses.csail.mit.edu/iap/interview/materials.php)
-* [Coderust 2.0 ($$)](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
-* [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
-* [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
-* [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* The Linux Foundation – [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
+* IBM - [Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+* [Blockgeeks](https://courses.blockgeeks.com/)
+* [B9lab Academy](https://academy.b9lab.com/)
+* IBM [developerWorks Course Badges](https://academy.b9lab.com/)
 
 ### Videos
 
-* [How does a blockchain work[5:59]](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+* [How does a blockchain work [5:59]](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 * [Smart contracts [4:17]](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 * [Proof-of-Stake (vs proof-of-work) [7:58]](https://www.youtube.com/watch?v=M3EFi_POhps)
 * [Blockchain Basics Explained - Hashes with Mining and Merkle trees [3:23]](https://www.youtube.com/watch?v=lik9aaFIsl4)
