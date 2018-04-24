@@ -94,12 +94,20 @@
 * [Solidity Docs](https://solidity.readthedocs.io/en/v0.4.23/)
 * [Remix - Solidity IDE](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
 
-
-### JavaScript
-
 ### HTML
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [HTML5 Tutorial w3schools](https://www.w3schools.com/html/)
+* [HTML Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
+* [HTML5 Tutorialspoint](https://www.tutorialspoint.com/html5/index.htm)
 
 ### CSS
+
+### JavaScript
+* [JavaScript Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
+* [Javascript.com](https://www.javascript.com/)
+* [JavaScript Tutorial w3schools](https://www.w3schools.com/js/default.asp)
+* [Javascript Tutorial Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
 
 ### Express.js
 
