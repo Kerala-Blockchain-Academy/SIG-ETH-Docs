@@ -97,6 +97,11 @@
 * [Remix - Solidity IDE](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
 * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
+### Go
+* [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
+* [Golang.org](https://golang.org/)
+* [Tutorialspoint](https://www.tutorialspoint.com/go/index.htm)
+
 ### HTML
 * [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 * [w3schools](https://www.w3schools.com/html/)
@@ -130,24 +135,3 @@
 * [Angularjs.org](https://docs.angularjs.org/guide)
 * [w3schools](https://www.w3schools.com/angular/default.asp)
 * [Tutorialspoint](https://www.tutorialspoint.com/angularjs/index.htm)
-
-
-### Node.js
-* []()
-* []()
-* []()
-
-### React
-* []()
-* []()
-* []()
-
-### MongoDB
-* []()
-* []()
-* []()
-
-### SQL
-* []()
-* []()
-* []()
