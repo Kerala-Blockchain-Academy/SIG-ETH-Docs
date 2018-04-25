@@ -33,9 +33,8 @@
 ### Articles
 
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-* [Bitcoin](https://en.bitcoin.it/wiki/Main_Page)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
-* [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+* [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
 * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
 * [Decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing)
 * [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
