@@ -8,8 +8,8 @@
 	* [Videos](#videos)
 	
 * [Fundamentals](#fundamentals)
-	* [Crypto](#crypto)
-	* [Maths](#maths)
+	* [Cryptographic](#cryptography)
+	* [Mathematics](#mathematics)
 	* [Networking](#networking)
 	
 * [Languages and technologies](#languages-and-technologies)
@@ -33,7 +33,10 @@
 ### Articles
 
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+* [Ethereum White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Ethereum: A Secure Decentralised Generalised Transaction Ledger](http://gavwood.com/paper.pdf)
 * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
 * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
 * [Decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing)
@@ -61,7 +64,7 @@
 
 ## Fundamentals
 
-### Crypto
+### Cryptography
 
 * Coursera, Stanford, Dan Boneh – [Cryptography I](https://www.coursera.org/learn/crypto)
 * Boneh, Shoup – [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
@@ -69,7 +72,7 @@
 * [Praetorian Tech Challenges](https://www.praetorian.com/challenges)
 * [Cryptography Services Challenges](http://cryptoservices.github.io/challenges/)
 
-### Maths
+### Mathematics
 
 * MIT - [Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 * Graham, Knuth, Patashnik – [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)
