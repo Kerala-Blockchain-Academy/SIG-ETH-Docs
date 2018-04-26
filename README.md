@@ -91,6 +91,9 @@
 ### Ethereum
 * [Ethereum Docs](http://www.ethdocs.org/en/latest/)
 
+### Hyperledger
+* [Hyperledger](https://www.hyperledger.org/)
+
 ### Solidity
 * [Solidity](https://en.wikipedia.org/wiki/Solidity)
 * [Solidity Docs](https://solidity.readthedocs.io/en/v0.4.23/)
