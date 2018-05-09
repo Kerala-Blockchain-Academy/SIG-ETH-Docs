@@ -1,9 +1,8 @@
 # Blockchain
 
-
 ### Contents
-* [Getting started](#guides-1)
-	* [Terminologies/Jargons](#Jargons-Glossary)
+* [Getting started](#guides)
+	* [Jargons](#Jargons)
 	* [Videos](#videos)
 	* [Articles](#articles)
 	* [Courses](#courses)
@@ -14,16 +13,15 @@
 	* [Cryptography](#cryptography)
 	* [Networking](#networking)
 		
-* [Whitepapers/Research Paper](#whitepapers)
+* [Whitepapers/Research Papers](#whitepapers)
  
 * [Languages and technologies](#languages-and-technologies)
 	
-## Guides
+## Getting started 
 
-### Jargons/Glossary 
+### Jargons 
 * [General](https://blockchainhub.net/blockchain-glossary) - Great explanation of Blockchain related terms.
 * [Ethereum](https://github.com/ethereum/wiki/wiki/Glossary) 
-
 
 ### Videos
 
