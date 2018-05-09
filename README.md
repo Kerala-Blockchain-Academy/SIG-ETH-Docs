@@ -1,7 +1,7 @@
 # Blockchain
 
 ### Contents
-* [Getting started](#guides)
+* [Getting started](#getting-started)
 	* [Jargons](#Jargons)
 	* [Videos](#videos)
 	* [Articles](#articles)
