@@ -13,7 +13,9 @@
 * [Fundamentals](#fundamentals)
 	* [Cryptography](#cryptography)
 	* [Networking](#networking)
-	
+		
+* [Whitepapers/Research Paper](#whitepapers)
+ 
 * [Languages and technologies](#languages-and-technologies)
 	
 ## Guides
@@ -33,12 +35,10 @@
 
 ### Articles
 
-* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Understanding Blockchain Fundamentals - I](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
+* [Understanding Blockchain Fundamentals - II](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-2-proof-of-work-proof-of-stake-b6ae907c7edb)
 * [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
 * [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-* [Ethereum White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-* [Ethereum: A Secure Decentralised Generalised Transaction Ledger](http://gavwood.com/paper.pdf)
 * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
 * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
 * [Decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing)
@@ -52,11 +52,11 @@
 * [B9lab Academy](https://academy.b9lab.com/)
 
 ### DApps Development
-- [Cryptozombies ](https://cryptozombies.io)
+- [Cryptozombies ](https://cryptozombies.io) - An interactive way of learning DApp Development
 - [Solidity](#solidity) - Widely used language to develop smart contracts on Ethereum blockchain
 - [Web3 JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) - This is the main JavaScript SDK to use when you want to interact with a nodes API
 - [JSON RPC API](https://github.com/ethereum/wiki/wiki/JSON-RPC) - This is the low level JSON RPC 2.0 interface to interface with a node. This API is used by the [Web3 JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API).
-- [Dapp Insight](https://dappinsight.com) - This is a most popular Dapp analytics tool which listing all the running Dapps in the world with their true usage data. 
+- [Dapp Insight](https://dappinsight.com) - This is a most popular Dapp analytics tool which listing all the running Dapps in the world with their true usage data 
 
 ### Books
 
@@ -91,7 +91,7 @@
 
 ### Solidity
 * [What is Solidity ?](https://en.wikipedia.org/wiki/Solidity)
-* [Solidity Documentation](#https://solidity.readthedocs.org/en/latest/) - Solidity is the Ethereum-developed Smart Contract language, which compiles to EVM (Ethereum Virtual Machine) opcodes.
+* [Solidity Documentation](https://solidity.readthedocs.org/en/latest/) - Solidity is the Ethereum-developed Smart Contract language, which compiles to EVM (Ethereum Virtual Machine) opcodes.
 * [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Quick reference to the Solidity fundamentals
 * [Remix - Solidity IDE](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
 * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
@@ -111,8 +111,13 @@
 * [w3schools](https://www.w3schools.com/js/default.asp)
 * [Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
 
+## whitepapers
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [Ethereum: A Secure Decentralised Generalised Transaction Ledger](http://gavwood.com/paper.pdf)
 
-## Gitter Chats
+
+### Gitter Chats
 - web3.js [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/web3.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - Mist [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/mist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 - GO Ethereum [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/go-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
