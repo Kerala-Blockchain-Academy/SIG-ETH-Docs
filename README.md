@@ -3,6 +3,7 @@
 ### Contents
 * [Getting started](#getting-started)
 	* [Jargons](#Jargons)
+	* [Reddits](#Reddit)
 	* [Videos](#videos)
 	* [Articles](#articles)
 	* [Courses](#courses)
@@ -22,6 +23,10 @@
 * [General](https://blockchainhub.net/blockchain-glossary) - Great explanation of Blockchain related terms.
 * [Ethereum](https://github.com/ethereum/wiki/wiki/Glossary) 
 
+### Reddit 
+- [/r/ethdev/](https://www.reddit.com/r/ethdev/) -  The best
+- [/r/ethereumnoobies](https://www.reddit.com/r/ethereumnoobies/)
+
 ### Videos
 
 * [How does a blockchain work [5:59]](https://www.youtube.com/watch?v=SSo_EIwHSd4)
@@ -36,7 +41,7 @@
 * [Understanding Blockchain Fundamentals - II](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-2-proof-of-work-proof-of-stake-b6ae907c7edb)
 * [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
 * [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
-* [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
+* [Blockchain 101](https://www.coindesk.com/information/)
 * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
 * [Decentralized computing](https://en.wikipedia.org/wiki/Decentralized_computing)
 
@@ -77,7 +82,6 @@
 ### Ethereum
 * [Ethereum Docs](http://www.ethdocs.org/en/latest/)
 * [Ethereum Clients](https://github.com/ethereum/wiki/wiki/Clients)
-
 
 ### Solidity
 * [What is Solidity ?](https://en.wikipedia.org/wiki/Solidity)
