@@ -11,7 +11,6 @@
 	
 * [Fundamentals](#fundamentals)
 	* [Cryptography](#cryptography)
-	* [Networking](#networking)
 		
 * [Whitepapers/Research Papers](#whitepapers)
  
@@ -72,13 +71,6 @@
 * [Praetorian Tech Challenges](https://www.praetorian.com/challenges)
 * [Cryptography Services Challenges](http://cryptoservices.github.io/challenges/)
 
-### Networking
-
-* Joyent – [TCP Puzzlers](https://www.joyent.com/blog/tcp-puzzlers)
-* Andrew Tanenbaum – [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742)
-* Kurose, Ross – [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204)
-* W. Richard Stevens – [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469)
-* W. Richard Stevens – [UNIX Netowrk Programming](https://www.amazon.com/UNIX-Network-Programming-Richard-Stevens/dp/0139498761)
 
 ## Languages and Technologies
 
@@ -91,23 +83,13 @@
 * [What is Solidity ?](https://en.wikipedia.org/wiki/Solidity)
 * [Solidity Documentation](https://solidity.readthedocs.org/en/latest/) - Solidity is the Ethereum-developed Smart Contract language, which compiles to EVM (Ethereum Virtual Machine) opcodes.
 * [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Quick reference to the Solidity fundamentals
-* [Remix - Solidity IDE](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
+* [Remix - Solidity IDE - Online tool](https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.23+commit.124ca40d.js)
+* [Smart contract deployment tool](http://truffleframework.com)
 * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 ### Hyperledger
 * [Hyperledger](https://www.hyperledger.org/)
-
-
-### Go
-* [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
-* [Golang.org](https://golang.org/)
-* [Tutorialspoint](https://www.tutorialspoint.com/go/index.htm)
-
-### JavaScript
-* [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
-* [Javascript.com](https://www.javascript.com/)
-* [w3schools](https://www.w3schools.com/js/default.asp)
-* [Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
+* [Hyperledger Fabric](https://github.com/hyperledger/fabric#documentation-getting-started-and-developer-guides)
 
 ## whitepapers
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
